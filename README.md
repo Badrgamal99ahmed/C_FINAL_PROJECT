@@ -8,7 +8,7 @@ Certainly! Here's an example of a README file for the project:
 The Employee Management System is a simple console-based application written in C. It allows users to perform basic operations, such as adding, deleting, modifying, and displaying employee records. The application uses a linked list data structure to store and manage the employee data.
 
 # Features
-  # . Add a new employee data: Users can add a new employee to the system by providing their [name, age, salary, title, and ID].
+  $ . Add a new employee data: Users can add a new employee to the system by providing their [name, age, salary, title, and ID].
   
   # . Delete the data of an employee: Users can delete the data of a specific employee by selecting their [ID].
   
