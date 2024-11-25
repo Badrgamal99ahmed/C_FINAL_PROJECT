@@ -43,12 +43,12 @@ To get started with the Employee Management System, follow these instructions:
 
 1. Clone the repository:
 
-git clone https://github.com/your-username/employee-management-system.git
+@   git clone https://github.com/your-username/employee-management-system.git
 
 2. Compile the code using a C compiler. For example, using GCC:
-   gcc emp.c main.c -o emp
+@   gcc emp.c main.c -o emp
 3. Run the compiled executable:
-   ./emp
+@   ./emp
    
 # Usage
 
