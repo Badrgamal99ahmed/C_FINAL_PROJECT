@@ -9,10 +9,15 @@ The Employee Management System is a simple console-based application written in 
 
 # Features
   . Add a new employee data: Users can add a new employee to the system by providing their [name, age, salary, title, and ID].
+  
   . Delete the data of an employee: Users can delete the data of a specific employee by selecting their [ID].
+  
   . Modify the data of an employee: Users can modify the information of a particular employee, including their [name, age, salary, and title, by specifying their ID].
+  
   . View the data of an employee: Users can view the data of an individual employee by entering their [ID].
+  
   . View all the employee's data: Users can view the data of all employees in the system, including their [name, age, salary, title, and ID].
+  
   . Exit: Users can choose to exit the program.
 
 # Instructions
