@@ -25,30 +25,34 @@ To use the Employee Record System, follow these instructions:
 
 1- Run the program. 2- Choose an option from the menu by entering the corresponding number. 3- Follow the prompts and provide the necessary information as requested. 4- Perform the desired operation (add, delete, modify, or view employee records). 5- Repeat the process for any additional operations. 6- To exit the program, select the "Exit" option from the menu.
 
-Data of an Employee
+# Data of an Employee
 The following data will be stored for each employee in the system:
 
-Name: The name of the employee.
+1. Name: The name of the employee.
 
-Age: The age of the employee.
+2. Age: The age of the employee.
 
-Salary: The salary of the employee.
+3. Salary: The salary of the employee.
 
-Title: The job title or position of the employee.
+4. Title: The job title or position of the employee.
 
-ID: A unique identifier for each employee.
+5. ID: A unique identifier for each employee.
 
-Getting Started
+# Getting Started
 To get started with the Employee Management System, follow these instructions:
 
-Clone the repository:
+1. Clone the repository:
+
 git clone https://github.com/your-username/employee-management-system.git
-Compile the code using a C compiler. For example, using GCC:
-gcc emp.c main.c -o emp
-Run the compiled executable:
-./emp
-Usage
+
+2. Compile the code using a C compiler. For example, using GCC:
+   gcc emp.c main.c -o emp
+3. Run the compiled executable:
+   ./emp
+   
+# Usage
+
 The application provides a simple menu-based interface where you can select different options by entering the corresponding number. Follow the on-screen prompts to perform the desired operations.
 
-Contributing
+# Contributing
 Contributions to the Employee Management System are always welcome! If you find any issues or have suggestions for improvements, please feel free to open an issue or submit a pull request.
